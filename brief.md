@@ -14,7 +14,3 @@ Networking
 Cybersecurity
 
 Data
-
-Misconception in My Track
-
-Open Question
